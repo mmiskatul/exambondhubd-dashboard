@@ -26,7 +26,3 @@ Thumbs.db
 
 # IDE & Editor
 .idea/
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
-config.bat
